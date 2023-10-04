@@ -1,7 +1,9 @@
 package data.types;
 
 public class Variables {
-    //instance variables
+    //static variable
+    static String staticString;
+    //instance variable
     byte age;
     String name;
 
